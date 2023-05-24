@@ -21,3 +21,5 @@ for(const name in company) {
 answer.sort().reverse();
 
 console.log(answer.join("\n"));
+
+// 출처 : Baekjoon online judge, https://www.acmicpc.net/problem/7785
